@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2023-07-01T11:44:35.979Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.5.1 Chrome/112.0.5615.204 Electron/24.6.0 Safari/537.36" etag="PWV8H2_Usv0jcV0KgQB0" version="21.5.1" type="device" pages="2">
+<mxfile host="Electron" modified="2023-07-01T11:44:03.002Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.5.1 Chrome/112.0.5615.204 Electron/24.6.0 Safari/537.36" etag="e7MRAJfo3OFh6e-DIxIW" version="21.5.1" type="device" pages="2">
   <diagram id="C22Zyo9x9_IkmYV2H3KQ" name="Process order">
     <mxGraphModel dx="1594" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -326,9 +326,6 @@
         </mxCell>
         <mxCell id="G3vWXNh6A1pPj3LREwGl-16" value="医院内部系统" style="swimlane;startSize=70;horizontal=0;labelBackgroundColor=none;strokeColor=#666666;fontColor=#333333;swimlaneFillColor=#E6E6E6;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="-200" y="100" width="840" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="kxe2AEiny0gcTcYYG5x_-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="G3vWXNh6A1pPj3LREwGl-16">
-          <mxGeometry x="160.17000000000002" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="G3vWXNh6A1pPj3LREwGl-19" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endFill=0;startFill=0;endSize=6;startSize=6;dashed=1;dashPattern=1 4;endArrow=none;startArrow=none;strokeWidth=2;" parent="1" source="gj7Lqz_uDxO7MRF6QAoS-13" target="G3vWXNh6A1pPj3LREwGl-16" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
