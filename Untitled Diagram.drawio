@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2023-07-01T14:24:51.025Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.5.1 Chrome/112.0.5615.204 Electron/24.6.0 Safari/537.36" etag="TwKEhKUMr0Aw9MgEltsm" version="21.5.1" type="device">
+<mxfile host="Electron" modified="2023-07-02T07:13:54.977Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.5.1 Chrome/112.0.5615.204 Electron/24.6.0 Safari/537.36" etag="Q20tsw45TTnIdCkOyjo2" version="21.5.1" type="device">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="2726" dy="1926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -173,6 +173,17 @@
         <mxCell id="lxGZiPCWNOR9Ygy1V4rw-278" value="门诊" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="2b4e8129b02d487f-3" vertex="1">
           <mxGeometry x="1100" y="315" width="1020" height="405" as="geometry" />
         </mxCell>
+        <mxCell id="QrbaOr57LtG43BCPD-Ri-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.992;entryY=-0.03;entryDx=0;entryDy=0;entryPerimeter=0;shape=flexArrow;" edge="1" parent="2b4e8129b02d487f-3">
+          <mxGeometry y="1040" relative="1" as="geometry">
+            <mxPoint x="1641" y="720" as="sourcePoint" />
+            <mxPoint x="1641" y="796" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QrbaOr57LtG43BCPD-Ri-8" value="WS 消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QrbaOr57LtG43BCPD-Ri-7">
+          <mxGeometry x="-0.2983" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2b4e8129b02d487f-4" value="分诊设备" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="2b4e8129b02d487f-1" vertex="1">
           <mxGeometry y="1040" width="2160" height="240" as="geometry" />
         </mxCell>
@@ -194,9 +205,27 @@
         <mxCell id="lxGZiPCWNOR9Ygy1V4rw-25" value="自助挂号机" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];" parent="lxGZiPCWNOR9Ygy1V4rw-27" vertex="1">
           <mxGeometry x="447.93" y="15" width="124.43" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="lxGZiPCWNOR9Ygy1V4rw-229" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.992;entryY=-0.03;entryDx=0;entryDy=0;entryPerimeter=0;shape=flexArrow;" parent="2b4e8129b02d487f-1" target="lxGZiPCWNOR9Ygy1V4rw-22" edge="1">
+        <mxCell id="QrbaOr57LtG43BCPD-Ri-1" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="2b4e8129b02d487f-4">
+          <mxGeometry x="1110" y="50" width="1030" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="QrbaOr57LtG43BCPD-Ri-2" value="" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="QrbaOr57LtG43BCPD-Ri-1">
+          <mxGeometry width="515" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="QrbaOr57LtG43BCPD-Ri-3" value="" style="group" vertex="1" connectable="0" parent="QrbaOr57LtG43BCPD-Ri-1">
+          <mxGeometry x="219.93032786885246" y="7.5" width="590.139344262295" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="QrbaOr57LtG43BCPD-Ri-4" value="综合屏" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];" vertex="1" parent="QrbaOr57LtG43BCPD-Ri-3">
+          <mxGeometry x="17.78" y="15" width="124.43" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="QrbaOr57LtG43BCPD-Ri-5" value="二次叫号屏" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];" vertex="1" parent="QrbaOr57LtG43BCPD-Ri-3">
+          <mxGeometry x="233.49" y="15" width="124.43" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="QrbaOr57LtG43BCPD-Ri-6" value="自助挂号机" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];" vertex="1" parent="QrbaOr57LtG43BCPD-Ri-3">
+          <mxGeometry x="447.93" y="15" width="124.43" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="lxGZiPCWNOR9Ygy1V4rw-229" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.992;entryY=-0.03;entryDx=0;entryDy=0;entryPerimeter=0;shape=flexArrow;" parent="2b4e8129b02d487f-1" target="lxGZiPCWNOR9Ygy1V4rw-22" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="1000" as="sourcePoint" />
+            <mxPoint x="561" y="1010" as="sourcePoint" />
             <mxPoint x="250" y="1340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
