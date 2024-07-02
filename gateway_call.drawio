@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T02:09:16.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="d39ic6Hp9QPAd9eUGLNU" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T02:20:17.131Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="T2S3LfLOL0SlKA6_PBz0" version="24.6.4" type="github">
   <diagram name="第 1 页" id="qJUk2OqxJq6HmsppOkG_">
-    <mxGraphModel dx="574" dy="298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="683" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="OXSWfIvrHuzwoe7wkz2I-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;labelBackgroundColor=none;strokeColor=#FF00FF;fontColor=default;shape=link;" parent="1" source="OXSWfIvrHuzwoe7wkz2I-2" target="OXSWfIvrHuzwoe7wkz2I-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZqZ6sxTz-8CIvuPvBLW2-2" value="webrtc" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF00FF;" vertex="1" connectable="0" parent="OXSWfIvrHuzwoe7wkz2I-4">
+        <mxCell id="ZqZ6sxTz-8CIvuPvBLW2-2" value="webrtc" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF00FF;" parent="OXSWfIvrHuzwoe7wkz2I-4" vertex="1" connectable="0">
           <mxGeometry x="0.6867" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -18,12 +18,12 @@
         <mxCell id="RgBnaH0uV-x38aNaTd1q-8" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;flowAnimation=1;" parent="1" source="OXSWfIvrHuzwoe7wkz2I-2" target="RgBnaH0uV-x38aNaTd1q-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZqZ6sxTz-8CIvuPvBLW2-1" value="&lt;font color=&quot;#ff00ff&quot;&gt;GRPC&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RgBnaH0uV-x38aNaTd1q-8">
+        <mxCell id="ZqZ6sxTz-8CIvuPvBLW2-1" value="&lt;font color=&quot;#ff00ff&quot;&gt;GRPC&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RgBnaH0uV-x38aNaTd1q-8" vertex="1" connectable="0">
           <mxGeometry x="-0.032" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="31" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OXSWfIvrHuzwoe7wkz2I-2" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/modem.svg;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" parent="1" vertex="1">
+        <mxCell id="OXSWfIvrHuzwoe7wkz2I-2" value="网关" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/modem.svg;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="288.08" y="283.5" width="50" height="41.5" as="geometry" />
         </mxCell>
         <mxCell id="OXSWfIvrHuzwoe7wkz2I-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.contact_badge_focused;sketch=0;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" parent="1" vertex="1">
@@ -35,12 +35,12 @@
         <mxCell id="RgBnaH0uV-x38aNaTd1q-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;shape=link;flowAnimation=1;" parent="1" source="RgBnaH0uV-x38aNaTd1q-2" target="RgBnaH0uV-x38aNaTd1q-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZqZ6sxTz-8CIvuPvBLW2-3" value="webrtc" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF00FF;" vertex="1" connectable="0" parent="RgBnaH0uV-x38aNaTd1q-4">
+        <mxCell id="ZqZ6sxTz-8CIvuPvBLW2-3" value="webrtc" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF00FF;" parent="RgBnaH0uV-x38aNaTd1q-4" vertex="1" connectable="0">
           <mxGeometry x="-0.1345" relative="1" as="geometry">
             <mxPoint y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RgBnaH0uV-x38aNaTd1q-2" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=1;dashed=0;spacingTop=3;image=img/lib/active_directory/modem.svg;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" parent="1" vertex="1">
+        <mxCell id="RgBnaH0uV-x38aNaTd1q-2" value="网关" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=1;dashed=0;spacingTop=3;image=img/lib/active_directory/modem.svg;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="581.28" y="283.5" width="44.88" height="37.25" as="geometry" />
         </mxCell>
         <mxCell id="RgBnaH0uV-x38aNaTd1q-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=1;dashed=0;strokeWidth=1;shape=mxgraph.android.contact_badge_normal;sketch=0;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" parent="1" vertex="1">
