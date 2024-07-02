@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T02:20:17.131Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="T2S3LfLOL0SlKA6_PBz0" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T02:20:39.750Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="G5iBBFLiEozNyvfQZJC4" version="24.6.4" type="github">
   <diagram name="第 1 页" id="qJUk2OqxJq6HmsppOkG_">
     <mxGraphModel dx="683" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
         <mxCell id="OXSWfIvrHuzwoe7wkz2I-2" value="网关" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/modem.svg;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="288.08" y="283.5" width="50" height="41.5" as="geometry" />
         </mxCell>
-        <mxCell id="OXSWfIvrHuzwoe7wkz2I-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.contact_badge_focused;sketch=0;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" parent="1" vertex="1">
+        <mxCell id="OXSWfIvrHuzwoe7wkz2I-3" value="APP" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.contact_badge_focused;sketch=0;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" parent="1" vertex="1">
           <mxGeometry x="293.08" y="345" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RgBnaH0uV-x38aNaTd1q-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=1;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;fontColor=#5AA9E6;fillColor=#FFE45E;" parent="1" vertex="1">
@@ -43,7 +43,7 @@
         <mxCell id="RgBnaH0uV-x38aNaTd1q-2" value="网关" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=1;dashed=0;spacingTop=3;image=img/lib/active_directory/modem.svg;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="581.28" y="283.5" width="44.88" height="37.25" as="geometry" />
         </mxCell>
-        <mxCell id="RgBnaH0uV-x38aNaTd1q-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=1;dashed=0;strokeWidth=1;shape=mxgraph.android.contact_badge_normal;sketch=0;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" parent="1" vertex="1">
+        <mxCell id="RgBnaH0uV-x38aNaTd1q-3" value="APP" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=1;dashed=0;strokeWidth=1;shape=mxgraph.android.contact_badge_normal;sketch=0;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" parent="1" vertex="1">
           <mxGeometry x="583.72" y="352.25" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RgBnaH0uV-x38aNaTd1q-5" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=#FFE45E;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;verticalAlign=top;strokeColor=#FF6392;fontColor=#5AA9E6;shadow=0;dashed=0;strokeWidth=1;labelBackgroundColor=none;" parent="1" vertex="1">
